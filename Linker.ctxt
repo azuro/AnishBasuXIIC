@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=x
+comment1.target=void\ parseInput(java.lang.String)
+comment2.params=from\ to\ dictionary
+comment2.target=void\ linkWords(java.lang.String,\ java.lang.String,\ java.lang.String[])
+comment3.params=from\ to\ dict
+comment3.target=java.lang.String\ linked(java.lang.String,\ java.lang.String,\ java.lang.String[])
+comment4.params=dict
+comment4.target=java.lang.String[]\ sortDict(java.lang.String[])
+comment5.params=src\ target
+comment5.target=char\ dx1(java.lang.String,\ java.lang.String)
+numComments=6
