@@ -32,3 +32,8 @@ public class Luke
         return true;
     }
 }
+/*
+ * Lucas-Carmichael Number: 935
+ * Is a Lucas-Carmichael number
+ * 
+ */

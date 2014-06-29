@@ -16,3 +16,9 @@ class WordSwap{
         return ret;
     }
 }
+/*
+ * WordSwap:(Positive = Earn, Negative = Lose)
+ * 1
+ * agnes heard
+ * 10
+ */

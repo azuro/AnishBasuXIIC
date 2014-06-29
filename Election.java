@@ -40,3 +40,17 @@ class Election{
         System.out.println(end?"\nTotal: "+total:"");
     }
 }
+/*
+ * Election:
+ * 1
+ * Vote Distribution: 100% 0% 0% 0% 
+ * 14
+ * Vote Distribution: 25% 25% 25% 25% 
+ * 7
+ * Vote Distribution: 29% 29% 29% 14% 
+ * 8
+ * Vote Distribution: 25% 25% 25% 25% 
+ * -1
+ * Vote Distribution: 2 2 2 2 
+ * Total: 8
+ */
